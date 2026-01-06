@@ -246,9 +246,8 @@ footer .footer-container{
   margin-bottom: 30px;
 }
 
-.footer-container icons a{
+.footer-container .icons a {
   margin-right: 24px;
-
 } 
 
 .footer-container form input[type="text"], .footer-container form textarea{
