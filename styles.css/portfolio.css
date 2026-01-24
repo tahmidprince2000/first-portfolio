@@ -258,3 +258,8 @@ footer .footer-container{
   border-radius: 5px;
   color: #757575;
 }
+
+
+.hide{
+  display: none !important;
+}
